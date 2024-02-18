@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":"iPhone 11 Pro Max 256 Gb Grafite",
+        "price": 2000,
+        "image": "image/10.png"
+    },
+    {
+        "id": 2,
+        "name":" Iphone 11 Pro Max 256 Gb púrpura",
+        "price": 2500,
+        "image": "image/11.png"
+    },
+    {
+        "id": 3,
+        "name":" LD03 LOUNGE CHAIR",
+        "price": 2900,
+        "image": "image/17.png"
+    },
+    {
+        "id": 4,
+        "name":" LD04 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/17.png"
+    },
+    {
+        "id": 5,
+        "name":" LD05 LOUNGE CHAIR",
+        "price": 300,
+        "image": "image/14.png"
+    },
+    {
+        "id": 6,
+        "name":" LD06 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/15.png"
+    },
+    {
+        "id": 7,
+        "name":" LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/16.png"
+    },
+    {
+        "id": 8,
+        "name":" LD08 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/17.png"
+    }
+
+]
